@@ -1,45 +1,41 @@
+# Hackathon FMU — Equipe JARVIS
 
-# Hackathon Bovinu'S — Equipe JARVIS
+## Experiência 360 — Bovinu'S Grill & Beer | Unidade Augusta
 
-Projeto **Experiência 360**: inteligência operacional e melhoria da experiência do cliente no Bovinu'S Grill & Beer — unidade Augusta.
+Projeto de inteligência operacional para melhorar a experiência do cliente no restaurante, transformando informações sobre mesas, filas, atendimento, consumo e satisfação em indicadores para apoiar a gestão.
 
-## 🎥 Vídeo da apresentação
+## Vídeo da apresentação
 
-[Assistir à apresentação no YouTube](https://youtu.be/2Chpd5EoIMo)
+[Assistir ao vídeo no YouTube](https://youtu.be/2Chpd5EoIMo)
 
-## 📂 Materiais do projeto
+> Antes da entrega, confirme que o vídeo tem no máximo 2 minutos e que está público ou não listado.
 
-### 📊 Apresentação PowerPoint
+## Materiais do projeto
 
-[**Visualizar apresentação online**](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FPh17so%2FHackaton-Bovinus-Equipe-JARVIS%2Fmain%2Fapresentacao-experiencia-360.pptx)
+- [Apresentação PowerPoint — 5 slides](./apresentacao-experiencia-360.pptx)
+- [Documento técnico](./documento-tecnico-experiencia-360.docx)
+- [Modelo 3D interativo do restaurante](./modelo-3d-bovinus.html)
 
-[Baixar apresentação PowerPoint](./apresentacao-experiencia-360.pptx)
+## Capturas de tela da solução
 
-### 📄 Documento técnico
+Adicione nesta pasta até 5 imagens reais do protótipo. Sugestão:
+1. Visão geral do modelo 3D.
+2. Cenário atual versus cenário com melhorias.
+3. Simulação da balança e do mix do prato.
+4. Mesas, filas e limpeza.
+5. Câmeras e indicadores operacionais.
 
-[**Abrir documento técnico**](./documento-tecnico-experiencia-360.docx)
+## Resumo da solução
 
-[Baixar documento técnico](./documento-tecnico-experiencia-360.docx)
+A Experiência 360 conecta quatro frentes — consumo, filas, mesas e feedback — em um painel gerencial. A proposta inclui QR Code por mesa para avaliação e chamada do garçom, acompanhamento do status de limpeza, medição de filas e, em fases futuras, visão computacional nas cubas, na balança e na devolução dos pratos.
 
-### 🏢 Modelo 3D interativo
+A implantação proposta começa com um piloto de 30 dias na unidade Augusta e evolui em três fases. Os indicadores e resultados exibidos nos protótipos são simulados; projeções financeiras e custos hipotéticos estão identificados no documento técnico.
 
-[**Explorar modelo 3D do restaurante**](https://ph17so.github.io/Hackaton-Bovinus-Equipe-JARVIS/modelo-3d-bovinus.html)
-
-[Visualizar código HTML](./modelo-3d-bovinus.html)
-
-## 💡 Sobre o projeto
-
-A Experiência 360 propõe transformar informações operacionais em indicadores para melhorar:
-
-- Gestão e disponibilidade das mesas;
-- Tempo de espera nas filas;
-- Atendimento dos garçons;
-- Controle de limpeza;
-- Análise do consumo e das sobras;
-- Experiência e satisfação dos clientes.
-
-## 👥 Equipe JARVIS
+## Equipe JARVIS
 
 - Felipe Cerqueira Santos
 - Rodrigo Garcia Gondo
 - Pedro Henrique Simões de Oliveira
+
+---
+**Observação:** este pacote reúne os arquivos enviados para organização. Para cumprir integralmente o edital, ainda é necessário inserir até 5 capturas de tela e confirmar a duração do vídeo.
