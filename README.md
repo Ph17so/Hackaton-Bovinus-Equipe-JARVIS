@@ -18,12 +18,11 @@ Projeto de inteligência operacional para melhorar a experiência do cliente no 
 
 ## Capturas de tela da solução
 
-Adicione nesta pasta até 5 imagens reais do protótipo. Sugestão:
-1. Visão geral do modelo 3D.
-2. Cenário atual versus cenário com melhorias.
-3. Simulação da balança e do mix do prato.
-4. Mesas, filas e limpeza.
-5. Câmeras e indicadores operacionais.
+1. [Visão geral do modelo 3D.](https://github.com/Ph17so/Hackaton-Bovinus-Equipe-JARVIS/blob/ca6d9172879eba5502485a2b191e176666b32e92/Vis%C3%A3o%20Geral%20do%20Restaurante.jpeg)
+2. [Cenário atual versus cenário com melhorias](https://github.com/Ph17so/Hackaton-Bovinus-Equipe-JARVIS/blob/ca6d9172879eba5502485a2b191e176666b32e92/Cen%C3%A1rio%20atual%20vs%20Cen%C3%A1rio%20com%20melhoras.jpeg).
+3. [Simulação da balança e do mix do prato](https://github.com/Ph17so/Hackaton-Bovinus-Equipe-JARVIS/blob/ca6d9172879eba5502485a2b191e176666b32e92/Simula%C3%A7%C3%A3o%20da%20balan%C3%A7a%20e%20do%20mix%20do%20prato.jpeg).
+4. [Mesas, filas e limpeza](https://github.com/Ph17so/Hackaton-Bovinus-Equipe-JARVIS/blob/ca6d9172879eba5502485a2b191e176666b32e92/Mesas%2C%20filas%20e%20limpeza.jpeg).
+5. [Câmeras e indicadores operacionais](https://github.com/Ph17so/Hackaton-Bovinus-Equipe-JARVIS/blob/ca6d9172879eba5502485a2b191e176666b32e92/C%C3%A2meras%20e%20indicadores%20operacionais.jpeg).
 
 ## Resumo da solução
 
