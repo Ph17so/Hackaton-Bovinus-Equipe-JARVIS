@@ -8,7 +8,6 @@ Projeto de inteligência operacional para melhorar a experiência do cliente no 
 
 [Assistir ao vídeo no YouTube](https://youtu.be/2Chpd5EoIMo)
 
-> Antes da entrega, confirme que o vídeo tem no máximo 2 minutos e que está público ou não listado.
 
 ## Materiais do projeto
 
