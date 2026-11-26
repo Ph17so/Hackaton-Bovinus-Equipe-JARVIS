@@ -35,6 +35,3 @@ A implantação proposta começa com um piloto de 30 dias na unidade Augusta e e
 - Felipe Cerqueira Santos
 - Rodrigo Garcia Gondo
 - Pedro Henrique Simões de Oliveira
-
----
-**Observação:** este pacote reúne os arquivos enviados para organização. Para cumprir integralmente o edital, ainda é necessário inserir até 5 capturas de tela e confirmar a duração do vídeo.
